@@ -1,1 +1,18 @@
+title: "Mohammad Ebrahim Habib"
+description: "Data Scientist | SQL | Python | Power BI | Data-Driven Insights"
+theme: minima
+
+# Your GitHub username
+author: Mohammad Ebrahim Habib
+
+# Email & social links
+email: mebrhimhabib786@gmail.com
+linkedin_username: https://www.linkedin.com/in/ebrahimhabib/
+github_username: ebrahimlab
+
+# Show links in footer
+footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ebrahimhabib/
+     
 
