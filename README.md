@@ -8,7 +8,7 @@
 
 ## 🎓 Education
 **Master's in Data Science**  
-Maria Curie-Skłodowska University, Poland (2022–2024)
+Maria Curie-Skłodowska University, Poland 
 
 ---
 
