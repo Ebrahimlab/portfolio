@@ -8,7 +8,7 @@
 
 ## 🎓 Education
 **Master's in Data Science**  
-Maria Curie-Skłodowska University, Poland 
+Maria Curie-Skłodowska University, Lublin, Poland 
 
 ---
 
