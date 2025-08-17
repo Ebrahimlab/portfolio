@@ -38,24 +38,28 @@ Maria Curie-Skłodowska University, Lublin, Poland
 # 📂 My Data Portfolio  
 
 Welcome to my portfolio! 🚀  
-Here, I showcase my **SQL, Python, and Tableau projects** in one place.  
+This repository brings together my **Python, SQL, and Tableau projects** that highlight my skills in **data analysis, visualization, and business insights**.  
 
 ---
 
 ## 🐍 Python Projects  
-- [Retail Sales EDA in Python](link-to-your-repo-or-folder)  
-  Exploratory Data Analysis on retail sales data using Pandas, Matplotlib, and Seaborn.  
+- [Retail Sales EDA in Python](https://github.com/Ebrahimlab/Retail-Sales-Exploratory-Data-Analysis-in-Python)  
+  Exploratory Data Analysis (EDA) on retail sales data using **Pandas, Matplotlib, and Seaborn**.  
+  Key focus: customer demographics, product preferences, and seasonal spending trends.  
 
 ---
 
 ## 🗄️ SQL Projects  
-- [Retail Sales SQL Project](link-to-your-repo-or-folder)  
-  SQL-based analysis of retail data: database setup, cleaning, and business queries.  
+- [Retail Sales SQL Project](https://github.com/Ebrahimlab/sql_retail_sales_project)  
+  SQL-based retail analysis project covering:  
+  - Database setup & cleaning  
+  - Exploratory queries  
+  - Business intelligence insights (revenue, top customers, seasonal trends)  
 
 ---
 
 ## 📊 Tableau Dashboards  
-Check out my **interactive visualizations** on Tableau Public:  
+Explore my **interactive Tableau dashboards** on Tableau Public:  
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mohammad.ebrahim.habib/vizzes)  
 
@@ -64,7 +68,3 @@ Check out my **interactive visualizations** on Tableau Public:
 ## 👨‍💻 About Me  
 - **LinkedIn:** [Mohammad Ebrahim Habib](https://www.linkedin.com/in/ebrahimhabib/)  
 - **Email:** mebrhimhhabib786@gmail.com  
-
-
-
-
