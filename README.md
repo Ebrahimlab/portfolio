@@ -25,14 +25,35 @@ Maria Curie-Skłodowska University, Lublin, Poland
 ---
 
 ## 🔧 Skills
-- SQL (SQL Server)
-- Python (Pandas, scikit-learn, matplotlib)
-- Power BI & Excel
-- Tablue Desktop
-- Data Cleaning & Reporting
-- Dashboarding
-- Git, Docker (basic)
 
+## 🧠 Machine Learning & Analytics
+-- Supervised Learning (Regression, Classification)
+-- Unsupervised Learning (Clustering, PCA)
+-- Causal Inference (ATE, Policy Impact)
+-- Model Evaluation (Cross-Validation, Train/Test Split)
+-- Exploratory Data Analysis (EDA)
+
+## 🐍 Programming & Data Handling
+-- Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)
+-- SQL (SQL Server)
+
+## 📊 Visualization & BI Tools
+-- Power BI (DAX, Automated Dashboards)
+-- Tableau Desktop (Interactive Dashboards)
+-- Matplotlib & Seaborn (Python visualization)
+-- Excel (Pivot Tables, Power Query, VLOOKUP)
+
+## 🛠️ Tools & DevOps
+-- Git (Version Control, basic)
+-- Docker (Containers – basic)
+-- Jupyter Notebooks
+
+## 🧹 Data Processing & Reporting
+-- Data Cleaning (Handling Missing Values, Outliers)
+-- Data Transformation, Aggregation, and KPI Reporting
+
+
+Dashboarding and Storytelling with Data
 ---
 
 # 📂 My Data Portfolio  
