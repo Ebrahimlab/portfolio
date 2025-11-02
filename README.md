@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammad Ebrahim Habib
 
 🎓 MSc in Data Science  
-📍 Based in Poland  
+📍 Based in Poland (Open to relocation) 
 💼 Aspiring Data Scientist | SQL • Python • Power BI  
 
 ---
