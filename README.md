@@ -2,7 +2,7 @@
 
 🎓 MSc in Data Science  
 📍 Based in Poland (Open to relocation) 
-💼 Aspiring Data Scientist | SQL • Python • Power BI  
+💼 Aspiring Junior Data Scientist |Data Analyst | SQL • Python • Power BI  
 
 ---
 
