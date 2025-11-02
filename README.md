@@ -16,10 +16,10 @@ Maria Curie-Skłodowska University, Lublin, Poland
 **Customer Service Analyst**  
 *Arçelik Beko Service Center, Turkey*  
 
-**Data Analyst Intern**  
+**Data Analyst Internship**  
 *Lublin Municipal Office, Poland*  
 
-**Erasmus+ Exchange Program**  
+**Junior Data Scientist (Academic Research)**  
 *Kassel University, Germany*
 
 ---
